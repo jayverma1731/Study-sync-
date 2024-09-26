@@ -1,0 +1,1310 @@
+@media screen and (min-width: 2126px){
+    .cards {
+        margin: 1.3em 25em;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .card-text p {
+        padding: .7rem 60rem;
+    }
+
+    .card-container {
+        height: 33rem;
+        background-color: #efedf0;
+    
+    }
+}
+
+
+
+
+@media screen and (min-width: 1800px) {
+    .cards {
+        margin: 1.3em 18em;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .card-text p {
+        padding: .7rem 16rem;
+    }
+
+    .text-section h1 {
+        font-size: 3.5rem;
+        padding: .7rem 3rem 2rem 0rem;
+    }
+
+    .button1 {
+        font-size: 1rem;
+        padding: .8em 1.4em;
+        font-weight: 700;
+        border: none;
+        border-radius: 6px;
+        color: white;
+        background-color: rgb(77, 98, 255);
+    }
+    
+    .button2 {
+        font-size: 1rem;
+        padding: .8em 1.4em;
+        font-weight: 700;
+        border: none;
+        border-radius: 6px;
+        color: white;
+        background-color: rgb(48, 48, 48);
+    }
+    
+
+
+}
+
+@media screen and (max-width: 1412px) {
+
+    .card-container {
+        height: 40rem;
+    }
+
+    .cards {
+        margin: 1.3em 10em;
+    }
+
+    .card-1 {
+        width: 15em;
+        height: 9em;
+        padding: 1.7em 1em;
+    }
+
+
+    .card-2 {
+        width: 15em;
+        height: 9em;
+        padding: 1.7em 1em;
+    }
+
+    .card-3 {
+        width: 15em;
+        height: 9em;
+        padding: 1.7em 1em;
+    }
+
+    .card-4 {
+        width: 15em;
+        height: 9em;
+        padding: 1.7em 1em;
+    }
+
+    .card-5 {
+        width: 15em;
+        height: 9em;
+        padding: 1.7em 1em;
+    }
+
+    .card-6 {
+        width: 15em;
+        height: 9em;
+        padding: 1.7em 1em;
+    }
+
+    .card-1 h4,
+    .card-2 h4,
+    .card-3 h4,
+    .card-4 h4,
+    .card-5 h4,
+    .card-6 h4 {
+        font-size: .7rem;
+        padding: 1em .5em .5em .5em;
+        color: white;
+    }
+
+
+
+    .card-1 p,
+    .card-2 p,
+    .card-3 p,
+    .card-4 p,
+    .card-5 p,
+    .card-6 p {
+        font-size: .6rem;
+        padding: 0em 1em;
+        font-weight: 500;
+        color: white;
+    }
+
+
+    .big-para {
+        font-size: .7rem;
+        text-align: center;
+        padding: 1em 2em 1.3em 2em;
+    }
+
+    .profile h5 {
+        font-size: .8rem;
+        color: rgb(77, 98, 255);
+    }
+
+    .profile p {
+        font-size: .7rem;
+        font-weight: 500;
+    }
+
+    .rev-card-1 img {
+        height: 3rem;
+        width: 3rem;
+        object-fit: cover;
+        object-position: center;
+        border-radius: 50%;
+        padding-bottom: 0.3rem;
+    }
+
+}
+
+@media screen and (max-width: 1226px) {
+
+    main {
+        width: 80%;
+    }
+
+    .card-container {
+        height: 77rem;
+    }
+
+    .card-1 {
+        width: 30em;
+        height: 10em;
+        padding: 2.5em 1.3em;
+    }
+
+    .card-2 {
+        width: 30em;
+        height: 10em;
+        padding: 2.5em 1.3em;
+    }
+
+    .card-3 {
+        width: 30em;
+        height: 10em;
+        padding: 2.5em 1.3em;
+    }
+
+    .card-4 {
+        width: 30em;
+        height: 10em;
+        padding: 2.5em 1.3em;
+    }
+
+    .card-5 {
+        width: 30em;
+        height: 10em;
+        padding: 2.5em 1.3em;
+    }
+
+    .card-6 {
+        width: 30em;
+        height: 10em;
+        padding: 2.5em 1.3em;
+    }
+
+    .card-1 p,
+    .card-2 p,
+    .card-3 p,
+    .card-4 p,
+    .card-5 p,
+    .card-6 p {
+        font-size: .7rem;
+        padding: 0em 1em;
+        font-weight: 500;
+        color: white;
+    }
+
+    .card-1 h4,
+    .card-2 h4,
+    .card-3 h4,
+    .card-4 h4,
+    .card-5 h4,
+    .card-6 h4 {
+        font-size: .8rem;
+        padding: 1em .5em .5em .5em;
+        color: white;
+    }
+
+
+    .cards {
+        margin: 1em 8em;
+    }
+
+    .card-text p {
+        padding: .7rem 8rem;
+    }
+
+}
+
+@media screen and (max-width: 1025px) {
+
+    main {
+        width: 90%;
+    }
+
+    .links {
+        display: none;
+    }
+
+    .menu-icon i {
+        display: block;
+        padding-left: .7em;
+    }
+
+    .content {
+        height: 67rem;
+        flex-direction: column;
+    }
+
+    .leftside {
+        width: 100%;
+        height: 42%;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .rightside {
+        width: 100%;
+        height: 48%;
+        align-items: flex-start;
+
+    }
+
+    .leftside>p {
+        font-size: 1rem;
+        font-weight: 700;
+        color: rgb(77, 98, 255);
+        margin-top: 2em;
+    }
+
+    .text-section h1 {
+        font-size: 5rem;
+        text-align: center;
+        padding: 0rem;
+    }
+
+    .text-section p {
+        font-size: 1rem;
+        text-align: center;
+        padding: .7rem 2rem;
+        font-weight: 600;
+        color: rgb(78, 78, 78);
+    }
+
+    .buttons-section {
+        padding: 1rem 0rem;
+
+    }
+
+    .button1 {
+        font-size: 1.3rem;
+        padding: .8em 1.4em;
+        font-weight: 700;
+        border: none;
+        border-radius: 8px;
+        color: white;
+        background-color: rgb(77, 98, 255);
+    }
+
+    .button2 {
+        font-size: 1.3rem;
+        padding: .8em 1.4em;
+        font-weight: 700;
+        border: none;
+        border-radius: 8px;
+        color: white;
+        background-color: rgb(48, 48, 48);
+    }
+
+    .img {
+        width: 90rem;
+        height: 37rem;
+        background-image: url(https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/04/13220131/Educational-Websites.png);
+        border-radius: 20px;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .trust>h2 {
+        padding-bottom: .8rem;
+        padding-top: 0.1rem;
+        font-size: 1.9rem;
+    }
+
+}
+
+@media screen and (max-width: 835px) {
+
+    .logo i {
+        font-size: 2.1rem;
+        padding-right: .3rem;
+        color: rgb(77, 98, 255);
+    }
+
+    .logo h1 {
+        font-weight: 800;
+        font-size: 2rem;
+    }
+
+    .menu-icon i {
+        font-size: 2rem;
+        color: rgb(78, 78, 78);
+        padding-left: .7em;
+    }
+
+    .button button {
+        font-size: 1rem;
+        padding: .8em 1.4em;
+        font-weight: 700;
+        border: none;
+        border-radius: 8px;
+        color: white;
+        background-color: rgb(77, 98, 255);
+    }
+
+    .leftside>p {
+        font-size: 1rem;
+        font-weight: 700;
+        color: rgb(77, 98, 255);
+        margin-top: 2em;
+    }
+
+    .text-section h1 {
+        font-size: 3.5rem;
+        text-align: center;
+        padding: 0rem;
+    }
+
+    .text-section p {
+        font-size: 1rem;
+        text-align: center;
+        padding: .7rem 2rem;
+        font-weight: 600;
+        color: rgb(78, 78, 78);
+    }
+
+    .buttons-section {
+        padding: 1rem 0rem;
+
+    }
+
+    .button1 {
+        font-size: 1.3rem;
+        padding: .8em 1.4em;
+        font-weight: 700;
+        border: none;
+        border-radius: 8px;
+        color: white;
+        background-color: rgb(77, 98, 255);
+    }
+
+    .button2 {
+        font-size: 1.3rem;
+        padding: .8em 1.4em;
+        font-weight: 700;
+        border: none;
+        border-radius: 8px;
+        color: white;
+        background-color: rgb(48, 48, 48);
+    }
+
+    .cards {
+        display: flex;
+        justify-content: center;
+        margin: 1.3em 1.3em;
+        gap: 1.5em;
+        flex-wrap: wrap;
+    }
+
+    .card-text h2 {
+        padding-top: .6em;
+        font-size: 1.7rem;
+    }
+
+    .card-text p {
+        padding: .7rem 2rem;
+    }
+
+    .rev-container {
+        height: 43.8em;
+    }
+
+    .rev-container h2 {
+        text-align: center;
+        margin: 1em;
+        font-size: 1.7rem;
+    }
+
+    .rev-card {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 1em;
+    }
+
+    .rev-card-1 {
+        width: 30em;
+        height: 12em;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border: 1px solid rgb(182, 182, 182);
+        border-radius: .6rem;
+        margin: 0rem .5rem;
+    }
+
+    .rev-card-2 {
+        width: 30em;
+        height: 12em;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border: 1px solid rgb(182, 182, 182);
+        border-radius: .6rem;
+        margin: 0rem .5rem;
+    }
+
+    .rev-card-3 {
+        width: 30em;
+        height: 12em;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border: 1px solid rgb(182, 182, 182);
+        border-radius: .6rem;
+        margin: 0rem .5rem;
+    }
+
+    .profile {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: .5em 0em;
+    }
+
+    .profile h5 {
+        font-size: 1.2rem;
+        color: rgb(77, 98, 255);
+    }
+
+    .profile p {
+        font-size: .9rem;
+        font-weight: 500;
+    }
+
+    .big-para {
+        font-size: .9rem;
+        text-align: center;
+        padding: 1em 2em 0.8em 2em;
+    }
+
+    .form {
+        height: 40rem;
+        background-color: #efedf0;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .left-form {
+        width: 100%;
+        height: 45%;
+    }
+
+    .right-form {
+        width: 100%;
+        height: 55%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0rem;
+    }
+
+    .right-form h2 {
+        font-size: 3rem;
+        color: rgb(77, 98, 255);
+    }
+
+    .form-para {
+        font-size: 1.2rem;
+        font-weight: 500;
+    }
+
+    .input {
+        padding: .8em 0em;
+        display: flex;
+        align-items: center;
+        gap: 1em;
+    }
+
+    .input input {
+        width: 20rem;
+        height: 3rem;
+        border-radius: 5px;
+        border: 1.9px solid rgb(131, 131, 131);
+
+    }
+
+    input::placeholder {
+        font-weight: 600;
+        font-size: .8rem;
+        padding: 0rem 1rem;
+    }
+
+    .input button {
+        font-size: 1.17rem;
+        padding: .6em 1em;
+        border: none;
+        border-radius: 4px;
+        font-weight: 600;
+        background-color: rgb(77, 98, 255);
+        color: white;
+    }
+
+    .form-terms {
+        font-size: .9rem;
+        font-weight: 600;
+        padding: 0em 2em;
+        text-align: center;
+
+    }
+
+    .footer-container {
+        height: 35rem;
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: column;
+        margin-top: 3rem;
+        width: 100%;
+        height: 100%;
+
+    }
+
+    .left-footer {
+        width: 100%;
+        height: 30%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .right-footer {
+        width: 100%;
+        height: 50%;
+        display: flex;
+        justify-content: space-between;
+        padding-top: 4em;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .footer-logo h4 {
+        font-size: 1.9rem;
+        font-weight: 800;
+    
+    }
+    
+    .footer-logo i {
+        font-size: 1.9rem;
+        color: rgb(77, 98, 255);
+    }
+    
+    .left-footer p {
+        font-size: 1.1rem;
+        font-weight: 600;
+        padding: 1em 0em 1em 0em;
+        color: #777578;
+    }
+    
+    .social-logos {
+        font-size: 1.9rem;
+        color: #777578;
+    }
+
+    .footer-line1 h5 {
+        font-size: 1.1rem;
+        padding-bottom: 1.3rem;
+    
+    }
+    
+    .footer-line1 p {
+        font-size: 1rem;
+        font-weight: 600;
+        color: #777578;
+        padding-bottom: 1.1rem;
+    
+    }
+    
+    .footer-line2 h5 {
+        font-size: 1.1rem;
+        padding-bottom: 1.3rem;
+    }
+    
+    .footer-line2 p {
+        font-size: 1rem;
+        font-weight: 600;
+        color: #777578;
+        padding-bottom: 1.1rem;
+    
+    }
+    
+    .footer-line3 p {
+        font-size: 1rem;
+        font-weight: 600;
+        color: #777578;
+        padding-bottom: 1.1rem;
+    }
+    
+    .footer-line3 h5 {
+        font-size: 1.1rem;
+        padding-bottom: 1.3rem;
+    }
+    
+    .footer-line4 p {
+        font-size: 1rem;
+        font-weight: 600;
+        color: #777578;
+        padding-bottom: 1.1rem;
+    }
+    
+    .footer-line4 h5 {
+        font-size: 1.1rem;
+        padding-bottom: 1.3rem;
+    }
+    
+    .last-line {
+        font-size: 1rem;
+        color: #777578;
+        font-weight: 600;
+        text-align: center;
+        padding-bottom: 1.2em;
+    }
+}
+
+@media screen and (max-width: 600px) {
+
+    main{
+        overflow-x: hidden;
+        width: 93%;
+        margin: 1rem auto;
+    }
+
+    .logo i {
+        font-size: 1.3rem;
+        padding-right: .3rem;
+        color: rgb(77, 98, 255);
+    }
+
+    .logo h1 {
+        font-weight: 800;
+        font-size: 1.3rem;
+    }
+
+    .menu-icon i {
+        font-size: 1.6rem;
+        color: rgb(78, 78, 78);
+        padding: 0em 0em 0em 0.3em;
+    }
+
+    .button button {
+        font-size: .65rem;
+        padding: .8em 1.4em .8em;
+        font-weight: 700;
+        border: none;
+        border-radius: 8px;
+        color: white;
+        background-color: rgb(77, 98, 255);
+    }
+    
+    .leftside {
+        height: 42%;
+        /* background-color: aquamarine; */
+    }
+
+
+    .leftside>p {
+        font-size: 1rem;
+        font-weight: 700;
+        color: rgb(77, 98, 255);
+        margin-top: 2.5em;
+    }
+
+    .text-section h1 {
+        font-size: 2.8rem;
+        text-align: center;
+        padding: 0rem;
+    }
+    
+    .content {
+        height: 58rem;
+    }
+
+    .text-section p {
+        font-size: 1rem;
+        text-align: center;
+        padding: .7rem 2rem;
+        font-weight: 600;
+        color: rgb(78, 78, 78);
+    }
+
+    .buttons-section {
+        padding: .2rem 0rem 1em 0em;
+    }
+
+    .button1 {
+        font-size: 1rem;
+        padding: .8em 1.4em;
+        font-weight: 700;
+        border: none;
+        border-radius: 8px;
+        color: white;
+        background-color: rgb(77, 98, 255);
+    }
+
+    .button2 {
+        font-size: 1rem;
+        padding: .8em 1.4em;
+        font-weight: 700;
+        border: none;
+        border-radius: 8px;
+        color: white;
+        background-color: rgb(48, 48, 48);
+    }
+
+    .img {
+        width: 90rem;
+        height: 34rem;
+        background-image: url(https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/04/13220131/Educational-Websites.png);
+        border-radius: 20px;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .trust-container {
+        height: 11rem;
+        /* background-color: yellow; */
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .trust-box {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 92%;
+        height: 4rem;
+        background-color: rgb(227, 227, 227);
+        border-radius: 8px;
+        padding: 0rem 1rem;
+    }
+
+    .card-text p {
+        padding: .7rem .6rem;
+    }
+
+    .card-container {
+        height: 79rem;
+        background-color: #efedf0;
+    
+    }
+
+    .rev-container {
+        height: 43.8em;
+    }
+
+    .rev-container h2 {
+        text-align: center;
+        margin: 1em;
+        font-size: 1.7rem;
+    }
+
+    .rev-card {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 1em;
+    }
+
+    .rev-card-1 {
+        width: 27em;
+        height: 12em;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border: 1px solid rgb(182, 182, 182);
+        border-radius: .6rem;
+        margin: 0rem .5rem;
+    }
+
+    .rev-card-2 {
+        width: 27em;
+        height: 12em;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border: 1px solid rgb(182, 182, 182);
+        border-radius: .6rem;
+        margin: 0rem .5rem;
+    }
+
+    .rev-card-3 {
+        width: 27em;
+        height: 12em;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border: 1px solid rgb(182, 182, 182);
+        border-radius: .6rem;
+        margin: 0rem .5rem;
+    }
+
+    .profile {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: .5em 0em;
+    }
+
+    .profile h5 {
+        font-size: 1.2rem;
+        color: rgb(77, 98, 255);
+    }
+
+    .profile p {
+        font-size: .9rem;
+        font-weight: 500;
+    }
+
+    .big-para {
+        font-size: .9rem;
+        text-align: center;
+        padding: 1em 2em 0.8em 2em;
+    }
+
+    .right-form h2 {
+        font-size: 2.4rem;
+        color: rgb(77, 98, 255);
+    }
+
+    .input {
+        padding: 1em 0em;
+        display: flex;
+        align-items: center;
+        gap: 1em;
+    }
+
+    .input input {
+        width: 20rem;
+        height: 3rem;
+        border-radius: 5px;
+        border: 1.9px solid rgb(131, 131, 131);
+
+    }
+
+    input::placeholder {
+        font-weight: 600;
+        font-size: .8rem;
+        padding: 0rem 1rem;
+    }
+
+    .input button {
+        font-size: 1.17rem;
+        padding: .6em 1em;
+        border: none;
+        border-radius: 4px;
+        font-weight: 600;
+        background-color: rgb(77, 98, 255);
+        color: white;
+    }
+
+    .footer-container {
+        height: 68rem;
+    }
+
+    .left-footer {
+        width: 100%;
+        height: 15%;
+    }
+
+    .right-footer {
+        width: 100%;
+        height: 85%;
+        display: flex;
+        flex-direction: column;
+        padding-top: 1rem;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: space-between;
+    
+    }
+
+    .footer-logo h4 {
+        font-size: 1.9rem;
+        font-weight: 800;
+    
+    }
+    
+    .footer-logo i {
+        font-size: 1.9rem;
+        color: rgb(77, 98, 255);
+    }
+    
+    .left-footer p {
+        font-size: 1.1rem;
+        font-weight: 600;
+        padding: 1em 0em 1em 0em;
+        color: #777578;
+    }
+    
+    .social-logos {
+        font-size: 1.9rem;
+        color: #777578;
+    }
+
+    .footer-line1 h5 {
+        font-size: 1.1rem;
+        padding-bottom: 1.3rem;
+    
+    }
+    
+    .footer-line1 p {
+        font-size: 1rem;
+        font-weight: 600;
+        color: #777578;
+        padding-bottom: 1.1rem;
+    
+    }
+    
+    .footer-line2 h5 {
+        font-size: 1.1rem;
+        padding-bottom: 1.3rem;
+    }
+    
+    .footer-line2 p {
+        font-size: 1rem;
+        font-weight: 600;
+        color: #777578;
+        padding-bottom: 1.1rem;
+    
+    }
+    
+    .footer-line3 p {
+        font-size: 1rem;
+        font-weight: 600;
+        color: #777578;
+        padding-bottom: 1.1rem;
+    }
+    
+    .footer-line3 h5 {
+        font-size: 1.1rem;
+        padding-bottom: 1.3rem;
+    }
+    
+    .footer-line4 p {
+        font-size: 1rem;
+        font-weight: 600;
+        color: #777578;
+        padding-bottom: 1.1rem;
+    }
+    
+    .footer-line4 h5 {
+        font-size: 1.1rem;
+        padding-bottom: 1.3rem;
+    }
+    
+    .last-line {
+        font-size: 1rem;
+        color: #777578;
+        font-weight: 600;
+        text-align: center;
+        padding: 2em 0em 1em 0em ;
+    }
+}
+
+@media screen and (max-width: 467px) {
+
+    .text-section h1 {
+        font-size: 2.4rem;
+        text-align: center;
+        padding: 0rem;}
+
+        .logo i {
+            font-size: 1.1rem;
+            padding-right: .3rem;
+            color: rgb(77, 98, 255);
+        }
+    
+        .logo h1 {
+            font-weight: 800;
+            font-size: 1rem;
+        }
+
+        .img {
+            width: 90rem;
+            height: 20rem;
+            background-image: url(https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/04/13220131/Educational-Websites.png);
+            border-radius: 20px;
+            background-position: center;
+            background-size: cover;
+        }
+        .button button {
+            font-size: .58rem;
+            padding: .8em 1.4em .8em;
+            font-weight: 700;
+            border: none;
+            border-radius: 8px;
+            color: white;
+            background-color: rgb(77, 98, 255);
+        }
+    
+
+        .leftside>p {
+            font-size: .7rem;
+            font-weight: 700;
+            color: rgb(77, 98, 255);
+        }
+
+        .text-section p {
+            font-size: .7rem;
+           padding: .5rem 1rem;
+            font-weight: 600;
+            color: rgb(78, 78, 78);
+            text-align: center;
+        }
+
+        .buttons-section {
+            padding: 1rem 0rem;
+        
+        }
+        
+        .button1 {
+            font-size: .8rem;
+            padding: .8em 1.4em;
+            font-weight: 700;
+            border: none;
+            border-radius: 6px;
+            color: white;
+            background-color: rgb(77, 98, 255);
+        }
+        
+        .button2 {
+            font-size: .8rem;
+            padding: .8em 1.4em;
+            font-weight: 700;
+            border: none;
+            border-radius: 6px;
+            color: white;
+            background-color: rgb(48, 48, 48);
+        }
+
+        .content {
+            height: 38rem;
+            margin: 2.4rem 0rem 0rem 0rem;
+        }
+
+        .rightside {
+            width: 100%;
+            height: 60%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        margin: 2.8rem 0rem 0rem 0rem;
+        }
+
+        .trust-container {
+            height: 14rem;
+            /* background-color: yellow; */
+            width: 100%;
+        }
+        
+        .trust {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        
+        .trust-box {
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            width: 20rem;
+            height: 8rem;
+            background-color: rgb(227, 227, 227);
+            border-radius: 8px;
+            padding: 0rem 1rem;
+        }
+
+        .trust>h2 {
+            padding: 0rem 0rem 1rem 0rem;
+            font-size: 1.4rem;
+        }
+
+        .microsoft p,
+.facebook p,
+.instagram p,
+.linkedin p {
+    font-size: 1.1rem;
+    font-weight: 700;
+}
+
+
+.trust-box i {
+    font-size: 1.4rem;
+}
+
+.microsoft i {
+    font-weight: 100;
+}
+
+.cards {
+
+    display: flex;
+    justify-content: center;
+    margin: 1.3em .6em;
+    gap: 1.5em;
+    flex-wrap: wrap;
+}
+
+.card-text p {
+    padding: .7rem .6rem;
+    font-size: .8rem;
+}
+
+.rev-container {
+    height: 47em;
+}
+
+.rev-container h2 {
+    text-align: center;
+    margin: 1em;
+    font-size: 1.7rem;
+}
+
+.rev-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+}
+
+.rev-card-1 {
+    width: 22em;
+    height: 12em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid rgb(182, 182, 182);
+    border-radius: .6rem;
+    margin: 0rem .5rem;
+}
+
+.rev-card-2 {
+    width: 22em;
+    height: 12em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid rgb(182, 182, 182);
+    border-radius: .6rem;
+    margin: 0rem .5rem;
+}
+
+.rev-card-3 {
+    width: 22em;
+    height: 12em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid rgb(182, 182, 182);
+    border-radius: .6rem;
+    margin: 0rem .5rem;
+}
+
+.profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1.5em 0em;
+}
+
+.profile h5 {
+    font-size: 1rem;
+    color: rgb(77, 98, 255);
+}
+
+.profile p {
+    font-size: .8rem;
+    font-weight: 500;
+}
+
+.big-para {
+    font-size: .8rem;
+    text-align: center;
+    padding: 1em 2em 0.8em 2em;
+}
+
+.right-form h2 {
+    font-size: 1.8rem;
+    color: rgb(77, 98, 255);
+}
+
+.input {
+    padding: 1em 0em;
+    display: flex;
+    align-items: center;
+    gap: .5em;
+}
+
+.input input {
+    width: 13rem;
+    height: 2.5rem;
+    border-radius: 5px;
+    border: 1.9px solid rgb(131, 131, 131);
+
+}
+
+input::placeholder {
+    font-weight: 600;
+    font-size: .8rem;
+    padding: 0rem 1rem;
+}
+
+.input button {
+    font-size: 1rem;
+    padding: .6em 1em;
+    border: none;
+    border-radius: 4px;
+    font-weight: 600;
+    background-color: rgb(77, 98, 255);
+    color: white;
+}
+
+.left-footer p {
+    font-size: .8rem;
+    font-weight: 600;
+    padding: 1em 0em 1em 0em;
+    color: #777578;
+    text-align: center;
+}
+
+.footer-logo h4 {
+    font-size: 1.18rem;
+    font-weight: 800;
+
+}
+
+
+
+
+}
+
+
